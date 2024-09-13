@@ -20,12 +20,12 @@ const addCategorySchema = Joi.object({
     .min(3)
     .max(200)
     .error(createHttpError.BadRequest("توضیحات دسته بندی صحیح نمی باشد")),
-  type: Joi.string()
-    .required()
-    .min(3)
-    .max(100)
-    .valid("project", "post", "comment", "ticket")
-    .error(createHttpError.BadRequest("نوع دسته بندی صحیح نمی باشد")),
+  // type: Joi.string()
+  //   .required()
+  //   .min(3)
+  //   .max(100)
+  //   .valid("project", "post", "comment", "ticket")
+  //   .error(createHttpError.BadRequest("نوع دسته بندی صحیح نمی باشد")),
   parent: Joi.string()
     .allow("")
     .pattern(MongoIDPattern)
@@ -48,12 +48,12 @@ const updateCategorySchema = Joi.object({
     .min(3)
     .max(200)
     .error(createHttpError.BadRequest("توضیحات دسته بندی صحیح نمی باشد")),
-  type: Joi.string()
-    .required()
-    .min(3)
-    .max(100)
-    .valid("product", "post", "comment", "ticket")
-    .error(createHttpError.BadRequest("نوع دسته بندی صحیح نمی باشد")),
+  // type: Joi.string()
+  //   .required()
+  //   .min(3)
+  //   .max(100)
+  //   .valid("product", "post", "comment", "ticket")
+  //   .error(createHttpError.BadRequest("نوع دسته بندی صحیح نمی باشد")),
 });
 
 module.exports = {
