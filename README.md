@@ -26,11 +26,11 @@ Here're some of the project's best features:
 <h2>Screen Shots</h2>
 
 <div align="center">
-<img  src="https://github.com/user-attachments/assets/c09c2e2b-420d-4dbf-97bf-ba4710df9148" width="100%" alt="alirezagholizadeh.ir"/>
+      <img  src="https://github.com/user-attachments/assets/c09c2e2b-420d-4dbf-97bf-ba4710df9148" width="100%" alt="alirezagholizadeh.ir"/>
 </div>
 <div align="center">
-<img src="https://github.com/user-attachments/assets/ac60dc88-220a-4c30-a298-8b8e066ab17e" width="49%">
-<img src="https://github.com/user-attachments/assets/63730a38-347e-4f12-a3c1-48aab645c7e1" width="49%">
+      <img src="https://github.com/user-attachments/assets/ac60dc88-220a-4c30-a298-8b8e066ab17e" width="49%">
+      <img src="https://github.com/user-attachments/assets/63730a38-347e-4f12-a3c1-48aab645c7e1" width="49%">
 </div>
 <div align="center">
       <img src="https://github.com/user-attachments/assets/1f433862-ef90-4b00-a20f-110da27a7116" width="49%">
