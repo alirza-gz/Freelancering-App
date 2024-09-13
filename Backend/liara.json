@@ -1,0 +1,9 @@
+{
+  "platform": "node",
+  "node": {
+    "mirror": false,
+    "version": "18"
+  },
+  "app": "freelancersapp-api",
+  "port": 5000
+}
