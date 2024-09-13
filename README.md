@@ -1,6 +1,5 @@
-<p align="center" style="display: flex;">
-      <h1 align="center">Freelancers | فریلنسرز</h1>
-      <img  src="./Frontend/src/Assets/Images/Logo/DarkModeLogo.png" width="100" alt="alirezagholizadeh.ir"/>
+<p align="center">
+      <h1 align="center">Freelancers | فریلنسرز       <img  src="./Frontend/src/Assets/Images/Logo/DarkModeLogo.png" width="100" alt="alirezagholizadeh.ir"/></h1>
 </p>
 
 <div>
@@ -26,9 +25,7 @@ Here're some of the project's best features:
 
 <h2>Screen Shots</h2>
 
-<div align="center" width=49%>
-      ![home-page](https://github.com/user-attachments/assets/c09c2e2b-420d-4dbf-97bf-ba4710df9148)
-</div>
+![home-page](https://github.com/user-attachments/assets/c09c2e2b-420d-4dbf-97bf-ba4710df9148)
 <div align="center">
       <div align="center" width=49%>
             ![complete-profile](https://github.com/user-attachments/assets/ac60dc88-220a-4c30-a298-8b8e066ab17e)
@@ -90,7 +87,7 @@ Here're some of the project's best features:
 
 # APP Link
 
-[Inventory App](https://alirezagholizadeh.ir/)
+[Freelancers App](https://alirezagholizadeh.ir/)
 
 ---
 
